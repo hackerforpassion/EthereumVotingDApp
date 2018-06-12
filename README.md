@@ -21,3 +21,6 @@ testrpc
 ```
 truffle migrate
 
+```
+### Output
+![output](https://raw.githubusercontent.com/hackerforpassion/EthereumVotingDApp/master/Screenshot%20from%202018-06-13%2004-39-59.png)
