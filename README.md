@@ -11,10 +11,12 @@ npm install -g truffle
 npm install
 npm run dev
 
+```
 ## Run Test RPC
 ```
 testrpc
 
+```
 ## Deploy contract to TestNet
 ```
 truffle migrate
